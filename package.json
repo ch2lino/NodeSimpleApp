@@ -1,0 +1,13 @@
+{
+  "name": "nodesimpleapp",
+  "version": "1.0.0",
+  "description": "Página sencilla Node.js con CI/CD",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"No hay pruebas definidas\""
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
